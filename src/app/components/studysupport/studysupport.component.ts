@@ -32,7 +32,7 @@ export class StudysupportComponent implements OnInit {
     },
     card3: {
       title: 'Knowledge Hub articles',
-      imageUrl: '/assets/img/studysupport/guidance.png'
+      imageUrl: 'https://knowclive.github.io/dashboard-member/assets/img/studysupport/guidance.png'
     },
     card4: {
       title: 'Financial Reporting Quarterly Update: April 2018',
