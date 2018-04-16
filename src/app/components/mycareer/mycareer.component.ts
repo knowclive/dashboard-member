@@ -8,10 +8,10 @@ import { Component, OnInit } from '@angular/core';
 export class MycareerComponent implements OnInit {
 
   mycareer = {
-    heading: 'My career',
-    summary: 'There are plenty of resources here to help you - whether you\'re working in finance, or searching for your first role.',
+    heading: 'My membership',
+    summary: 'Access a range of benefits - from keeping you up to date with accounting changes, to discounts on everyday brands.',
     link1: {
-      title: 'Search for UK jobs',
+      title: 'Benefits of your membership',
       url: '/'
     },
     link2: {
@@ -19,7 +19,7 @@ export class MycareerComponent implements OnInit {
       url: '/'
     },
     link3: {
-      title: 'Career support',
+      title: 'AAT Rewards - offers and discounts',
       url: '/'
     },
     link4: {

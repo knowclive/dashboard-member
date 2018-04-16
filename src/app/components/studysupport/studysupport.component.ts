@@ -19,23 +19,23 @@ import {Component, OnInit} from '@angular/core';
 export class StudysupportComponent implements OnInit {
 
   studysupport = {
-    heading: 'Study support',
-    summary: 'Access study support resources for all areas of your qualification.',
+    heading: 'My development',
+    summary: 'Continuing professional development (CPD) is a requirement of your membership - use these resources to help.',
     card1: {
-      title: 'Search for study support',
+      title: 'Find out about CPD',
       imageUrl: 'https://knowclive.github.io/dashboard/assets/img/studysupport/search-by-unit.png'
       // imageUrl: '/assets/img/studysupport/search-by-unit.png'
     },
     card2: {
-      title: 'Study tips on AAT Comment',
+      title: 'Update CPD record',
       imageUrl: 'https://knowclive.github.io/dashboard/assets/img/studysupport/green-light.png'
     },
     card3: {
-      title: 'Guidance',
+      title: 'Knowledge Hub articles',
       imageUrl: '/assets/img/studysupport/guidance.png'
     },
     card4: {
-      title: 'Essential study support (ebook)',
+      title: 'Financial Reporting Quarterly Update: April 2018',
       imageUrl: 'https://knowclive.github.io/dashboard/assets/img/studysupport/e-learning.png'
     },
     card5: {
